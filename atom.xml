@@ -3,11 +3,11 @@
   <title>当年</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="http://waiting2000.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2021-01-22T14:20:28.643Z</updated>
-  <id>http://example.com/</id>
+  <link href="http://waiting2000.github.io/"/>
+  <updated>2021-01-24T02:16:52.059Z</updated>
+  <id>http://waiting2000.github.io/</id>
   
   <author>
     <name>John Doe</name>
@@ -17,9 +17,22 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title></title>
+    <link href="http://waiting2000.github.io/2021/01/24/Hexo+GitHub%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://waiting2000.github.io/2021/01/24/Hexo+GitHub%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/</id>
+    <published>2021-01-24T02:16:52.059Z</published>
+    <updated>2021-01-24T02:16:52.059Z</updated>
+    
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2021/01/22/hello-world/"/>
-    <id>http://example.com/2021/01/22/hello-world/</id>
+    <link href="http://waiting2000.github.io/2021/01/22/hello-world/"/>
+    <id>http://waiting2000.github.io/2021/01/22/hello-world/</id>
     <published>2021-01-22T14:20:28.643Z</published>
     <updated>2021-01-22T14:20:28.643Z</updated>
     
