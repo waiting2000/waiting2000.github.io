@@ -6,7 +6,7 @@
   <link href="http://waiting2000.github.io/atom.xml" rel="self"/>
   
   <link href="http://waiting2000.github.io/"/>
-  <updated>2021-01-24T08:21:00.027Z</updated>
+  <updated>2021-01-24T12:35:14.388Z</updated>
   <id>http://waiting2000.github.io/</id>
   
   <author>
@@ -18,10 +18,10 @@
   
   <entry>
     <title>Hexo+Github搭建博客</title>
-    <link href="http://waiting2000.github.io/2021/01/24/Hexo-Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/uncategorized"/>
-    <id>http://waiting2000.github.io/2021/01/24/Hexo-Github%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2/uncategorized</id>
+    <link href="http://waiting2000.github.io/2021/01/24/hexo-github-da-jian-bo-ke/xue-xi-bi-ji"/>
+    <id>http://waiting2000.github.io/2021/01/24/hexo-github-da-jian-bo-ke/xue-xi-bi-ji</id>
     <published>2021-01-24T07:23:40.000Z</published>
-    <updated>2021-01-24T08:21:00.027Z</updated>
+    <updated>2021-01-24T12:35:14.388Z</updated>
     
     <content type="html"><![CDATA[<h1 id="1-安装Git"><a href="#1-安装Git" class="headerlink" title="1.安装Git"></a>1.安装Git</h1><h2 id="windows"><a href="#windows" class="headerlink" title="windows"></a>windows</h2><p>官网下载：</p>]]></content>
     
@@ -33,15 +33,17 @@
     
     
     
+    <category term="学习笔记" scheme="http://waiting2000.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://waiting2000.github.io/2021/01/22/hello-world/uncategorized"/>
-    <id>http://waiting2000.github.io/2021/01/22/hello-world/uncategorized</id>
+    <link href="http://waiting2000.github.io/2021/01/22/hello-world/xue-xi-bi-ji"/>
+    <id>http://waiting2000.github.io/2021/01/22/hello-world/xue-xi-bi-ji</id>
     <published>2021-01-22T14:20:28.643Z</published>
-    <updated>2021-01-22T14:20:28.643Z</updated>
+    <updated>2021-01-24T12:35:36.497Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre class=" language-bash"><code class="language-bash">$ hexo new <span class="token string">"My New Post"</span></code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre class=" language-bash"><code class="language-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre class=" language-bash"><code class="language-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre class=" language-bash"><code class="language-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
@@ -52,6 +54,8 @@
       
     
     
+    
+    <category term="学习笔记" scheme="http://waiting2000.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
     
     
   </entry>
